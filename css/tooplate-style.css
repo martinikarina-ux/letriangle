@@ -209,7 +209,11 @@ p {
 }
 
 .details__bg--down {
-  background: #b0e6af;
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solidd rgba(255, 255, 255, 0.35);
+  
 }
 
 .details__bg {
