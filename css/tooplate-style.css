@@ -277,7 +277,7 @@ p {
 }
 
 .form-control:focus {
-  color: #cecece;
+  color: #0000ff;
   background-color: #b0e1fb;
   border-color: transparent;
 }
@@ -428,7 +428,5 @@ p:last-child {
 }
 
 
-* {
-    font-family: monospace;
-    cursor: url(https://64.media.tumblr.com/944a0abc7ef096acd29ddf29e1894969/25c2207280490ab6-da/s75x75_c1/e4bda17eefb34dcb8cf7f8a485ab6ab37b8dc869.gifv), url(https://64.media.tumblr.com/d4a50c1b4d90a1eccf75ccca47199961/b261dfe74ba3f797-4e/s250x250_c1/b8ad33e140c516f3c0960a2572806ef066ef50d0.gifv), auto !important;
-}
+*
+ {cursor: url(https://cur.cursors-4u.net/games/gam-10/gam929.png), auto !important;}
